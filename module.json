@@ -1,4 +1,5 @@
 {
+  "id": "lava-flow-dev",
   "name": "{{name}}",
   "title": "{{title}}",
   "description": "{{description}}",
